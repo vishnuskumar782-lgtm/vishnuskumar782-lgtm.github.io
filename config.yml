@@ -1,0 +1,13 @@
+title: "Vishnu S Kumar"
+description: "Mechanical Engineer | M.Tech Machine Design | Bosch Power Tools"
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+highlighter: rouge
+
+# Automatically include navigation links (optional)
+plugins:
+  - jekyll-seo-tag
+
+# Add PDF resume for download
+resume_file: "VISHNU_S_KUMAR_-_SAINTGITS_COLLEGE_OF_ENGINEERING_-_MTECH_-_MACHINE_DESIGN.pdf"
